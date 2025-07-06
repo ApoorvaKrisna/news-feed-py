@@ -11,7 +11,7 @@ This is a backend system for retrieving and enriching news data using LLMs and M
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com:ApoorvaKrisna/news-feed-py.git
 cd contextual-news-backend
 cp .env.example .env
 pip install -r requirements.txt
